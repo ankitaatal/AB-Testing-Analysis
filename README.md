@@ -42,7 +42,7 @@ Does the new experience deliver a statistically and practically significant upli
 * **~₹1.5 crore incremental monthly revenue**
 
 ## Decision
-> **Roll out Variant B to 100% of users**
+> **Roll out Variant B to 100% of users** <br/>
 **Why:** Significant, consistent uplift with a valid experiment setup
 
 ## Next Steps
@@ -58,8 +58,6 @@ A/B Testing • Statistical Inference • SQL (Funnel, Segmentation) • SRM Val
 
 ## Summary
 End-to-end A/B testing project translating statistical results into a clear product decision with measurable revenue impact.
-
-
 
 
 
