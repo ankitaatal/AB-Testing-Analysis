@@ -21,7 +21,7 @@ Does the new experience deliver a statistically and practically significant upli
 * **Control (A):** Existing onboarding
 * **Treatment (B):** Redesigned flow
 
-**Primary metric:** Conversion rate
+**Primary metric:** Conversion rate<br/>
 **Guardrails:** No drop in mobile conversion, no increase in form-stage drop-offs
 
 ## Approach
