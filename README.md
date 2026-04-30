@@ -2,6 +2,7 @@
 
 ## Overview
 Analyzed a redesigned digital credit card onboarding flow using an end-to-end A/B testing framework (design → validation → business impact).
+
 **Goal:** Determine if Variant B improves conversion vs Variant A by reducing user friction.
 
 ## Key Insight
@@ -12,6 +13,7 @@ The onboarding flow was redesigned to:
 * Reduce funnel drop-offs
 * Improve user experience
 * Increase completed applications
+
 **Core question:**
 Does the new experience deliver a statistically and practically significant uplift?
 
