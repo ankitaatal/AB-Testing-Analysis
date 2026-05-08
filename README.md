@@ -61,5 +61,5 @@ Assuming **1 million monthly users**:
 
 ## Final Recommendation
 
-> Roll out **Variant B** to production, as the redesigned onboarding experience delivers a statistically robust and operationally meaningful improvement in conversion performance.
+Roll out **Variant B** to production, as the redesigned onboarding experience delivers a statistically robust and operationally meaningful improvement in conversion performance.
 
