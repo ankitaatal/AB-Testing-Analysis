@@ -2,8 +2,6 @@
 
 ## Overview
 
-> **Variant B increased conversion by ~3 percentage points, driving ~30,000 additional monthly conversions and ~₹1.5 crore in incremental monthly revenue.**
-
 This project evaluates whether a redesigned digital credit card onboarding experience improves application completion by reducing friction and optimizing the user journey.
 
 The analysis follows a complete experimentation workflow — from experiment design and validation to statistical inference and business decision-making.
@@ -32,6 +30,7 @@ Determine whether **Variant B** delivers a statistically and practically signifi
 * Data visualization & dashboarding
 
 ## Key Findings
+> **Variant B increased conversion by ~3 percentage points, driving ~30,000 additional monthly conversions and ~₹1.5 crore in incremental monthly revenue.**
 
 * Conversion improved from **11.7% → 14.8%**
 * Absolute uplift: **~3 percentage points**
