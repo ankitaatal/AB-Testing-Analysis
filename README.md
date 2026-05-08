@@ -1,67 +1,79 @@
-# A/B Testing & Conversion Optimization
+# **A/B Testing & Conversion Optimization Case Study**
 
 ## Overview
-Analyzed a redesigned digital credit card onboarding flow using an end-to-end A/B testing framework (design → validation → business impact).
 
-**Goal:** Determine if Variant B improves conversion vs Variant A by reducing user friction.
+> **Variant B increased conversion by ~3 percentage points, driving ~30,000 additional monthly conversions and ~₹1.5 crore in incremental monthly revenue.**
 
-## Key Insight
-Variant B increased conversion from **11.9% → 14.9% (+3pp)**, driving **~30,000 additional monthly conversions** and **~₹1.5 crore incremental revenue**.
+This project evaluates whether a redesigned digital credit card onboarding experience improves application completion by reducing friction and optimizing the user journey.
 
-## Business Context
+The analysis follows a complete experimentation workflow — from experiment design and validation to statistical inference and business decision-making.
+
+---
+
+## Business Problem
+
 The onboarding flow was redesigned to:
+
 * Reduce funnel drop-offs
 * Improve user experience
 * Increase completed applications
 
-**Core question:**
-Does the new experience deliver a statistically and practically significant uplift?
+### Objective
 
-## Experiment
-* **Control (A):** Existing onboarding
-* **Treatment (B):** Redesigned flow
+Determine whether **Variant B** delivers a statistically and practically significant improvement in conversion compared to **Variant A**.
 
-**Primary metric:** Conversion rate<br/>
-**Guardrails:** No drop in mobile conversion, no increase in form-stage drop-offs
+---
 
-## Approach
-* Power analysis (α=0.05, power=0.8)
-* Simulated ~30K users (device, history, engagement)
-* SQL: joins, funnel, segmentation
-* Validation: balance checks + **SRM test**
-* Statistics: two-proportion z-test + confidence intervals
-* Advanced: segmentation, logistic regression, interaction effects
-* Visualization: Tableau dashboards
+## Project Scope
 
-## Results
-* **+3.0pp conversion uplift (statistically significant)**
-* Consistent across devices (no interaction effects)
-* Drop-off concentrated at **form → submit stage**
-* Uplift driven by UX improvements (not engagement)
+* A/B testing & hypothesis testing
+* SQL analytics & relational modeling
+* Funnel and segmentation analysis
+* Confidence intervals & effect size evaluation
+* Logistic regression & interaction effects
+* Experiment validation (SRM checks)
+* Business impact estimation
+* Data visualization & dashboarding
 
-## Business Impact
-* **+30K conversions/month**
+---
+
+## Key Findings
+
+* Conversion improved from **11.7% → 14.8%**
+* Absolute uplift: **~3 percentage points**
+* Relative improvement: **~26%**
+* Consistent uplift across desktop and mobile segments
+* Largest drop-off identified at the **form submission stage**
+* No evidence of heterogeneous treatment effects
+
+---
+
+## Estimated Business Impact
+
+Assuming **1 million monthly users**:
+
+* **~30,000 incremental conversions/month**
 * **~₹1.5 crore incremental monthly revenue**
 
-## Decision
-> **Roll out Variant B to 100% of users** <br/>
-**Why:** Significant, consistent uplift with a valid experiment setup
-
-## Next Steps
-* Monitor mobile performance
-* Optimize form-stage friction
-* Run iterative onboarding experiments
+---
 
 ## Tech Stack
-Python (Pandas, NumPy, Statsmodels) • SQL (SQLite) • Tableau
 
-## Skills
-A/B Testing • Statistical Inference • SQL (Funnel, Segmentation) • SRM Validation • Logistic Regression • Business Impact Analysis
+**Python • Pandas • SQL • SQLite • Statsmodels • SciPy • Matplotlib • Tableau**
 
-## Summary
-End-to-end A/B testing project translating statistical results into a clear product decision with measurable revenue impact.
+---
 
+## Skills Demonstrated
 
+* A/B Testing & Statistical Inference
+* SQL (Joins, Funnel Analysis, Segmentation)
+* Experiment Validation (SRM Testing)
+* Logistic Regression & Interaction Effects
+* Business Impact & Product Analytics
 
+---
 
-If you want next level, I can turn this into a **“top 1% data portfolio README” with visuals + storytelling hooks**.
+## Final Recommendation
+
+> Roll out **Variant B** to production, as the redesigned onboarding experience delivers a statistically robust and operationally meaningful improvement in conversion performance.
+
