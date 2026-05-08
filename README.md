@@ -8,8 +8,6 @@ This project evaluates whether a redesigned digital credit card onboarding exper
 
 The analysis follows a complete experimentation workflow — from experiment design and validation to statistical inference and business decision-making.
 
----
-
 ## Business Problem
 
 The onboarding flow was redesigned to:
@@ -22,8 +20,6 @@ The onboarding flow was redesigned to:
 
 Determine whether **Variant B** delivers a statistically and practically significant improvement in conversion compared to **Variant A**.
 
----
-
 ## Project Scope
 
 * A/B testing & hypothesis testing
@@ -35,8 +31,6 @@ Determine whether **Variant B** delivers a statistically and practically signifi
 * Business impact estimation
 * Data visualization & dashboarding
 
----
-
 ## Key Findings
 
 * Conversion improved from **11.7% → 14.8%**
@@ -46,8 +40,6 @@ Determine whether **Variant B** delivers a statistically and practically signifi
 * Largest drop-off identified at the **form submission stage**
 * No evidence of heterogeneous treatment effects
 
----
-
 ## Estimated Business Impact
 
 Assuming **1 million monthly users**:
@@ -55,13 +47,9 @@ Assuming **1 million monthly users**:
 * **~30,000 incremental conversions/month**
 * **~₹1.5 crore incremental monthly revenue**
 
----
-
 ## Tech Stack
 
 **Python • Pandas • SQL • SQLite • Statsmodels • SciPy • Matplotlib • Tableau**
-
----
 
 ## Skills Demonstrated
 
@@ -70,8 +58,6 @@ Assuming **1 million monthly users**:
 * Experiment Validation (SRM Testing)
 * Logistic Regression & Interaction Effects
 * Business Impact & Product Analytics
-
----
 
 ## Final Recommendation
 
