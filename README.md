@@ -32,9 +32,9 @@ Determine whether **Variant B** delivers a statistically and practically signifi
 ## Key Findings
 > **Variant B increased conversion by ~3 percentage points, driving ~30,000 additional monthly conversions and ~₹1.5 crore in incremental monthly revenue.**
 
-* Conversion improved from **11.7% → 14.8%**
+* Conversion improved from **10.8% → 13.8%**
 * Absolute uplift: **~3 percentage points**
-* Relative improvement: **~26%**
+* Relative improvement: **~29%**
 * Consistent uplift across desktop and mobile segments
 * Largest drop-off identified at the **form submission stage**
 * No evidence of heterogeneous treatment effects
